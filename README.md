@@ -1,6 +1,11 @@
 # 💫 About Me:
-👋🏽 Hey there! I'm Lotanna (he/him) — a passionate tech enthusiast blending the worlds of software, hardware, and intelligent systems.<br>🚀 Skilled in Robotics, IoT, SolidWorks, ROS, Python, Arduino, and AI/ML/Deep Learning, I create innovative, scalable systems that solve real-world problems.<br>🧠 Whether it's designing a robot or building smart algorithms, I’m driven by curiosity and a love for hands-on creation.
+👋🏽 Hey, I'm Lotanna (he/him) — an aspiring Embedded Systems Engineer with a strong interest in robotics, firmware development, and intelligent hardware systems.
 
+⚙️ I enjoy working across hardware and software, building practical systems with C, Python, STM32, ESP32, Arduino, and ROS.
+
+🤖 From embedded firmware and control systems to robotics and automation, I'm driven by curiosity and a desire to understand how things work — and turn ideas into real-world solutions.
+
+🚀 Always learning, experimenting, and building.
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lotanna_nnoshiri) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lotanna.ml) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:latechsurge@gmail.com) 
